@@ -1,1 +1,2 @@
 # proyecto-sprint-10
+El objetivo de este proyecto es entrenar un modelo de machine learning para tres regiones distintas, esto para que cada uno sea capaz de determinar en cual de esas regiones deberia invertir la empresa teniendo encuenta la cantidad de recursos que predichos por region.
